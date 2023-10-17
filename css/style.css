@@ -1,0 +1,13 @@
+.box{
+    width: 100%;
+    
+    background-color: cadetblue;
+    border: 1px solid black;
+}
+.menu-header{
+    display: none;
+}
+header li{
+    display: inline;
+    text-decoration: none;
+}
