@@ -10,6 +10,7 @@ header{
     background-color: #2C3E50;
     color: white;
     height: 80px;
+    
 }
 h4{
     font-weight: 700;
@@ -31,7 +32,10 @@ header a{
 .jumbo{
     background-color: #1ABC9C;
     color: white;
-    padding-bottom: 2rem;
+    padding: 2rem 0;
+    margin-top: 80px;
+   
+    
 }
 .jumbo img{
     max-width: 160px;
